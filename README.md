@@ -1,25 +1,25 @@
 <div align="center" id="top"> 
   
 <h1 align="center">Oblique Throw</h1>
-  <a target="_blank" href="https://sevetoo.github.io/TheObliqueThrow/">
+  <a target="_blank" href="https://sevetoo.github.io/the-oblique-throw/">
   <img src="./preview.png" alt="Oblique Throw preview" />
   </a>
   
 
 &#xa0;
 
-<a target="_blank" href="https://sevetoo.github.io/TheObliqueThrow/">Demo</a>
+<a target="_blank" href="https://sevetoo.github.io/the-oblique-throw/">Demo</a>
 
 </div>
 
 <p align="center">
-  <img alt="Github top language" src="https://img.shields.io/github/languages/top/SeveToo/TheObliqueThrow?color=56BEB8">
+  <img alt="Github top language" src="https://img.shields.io/github/languages/top/SeveToo/the-oblique-throw?color=56BEB8">
 
-  <img alt="Github language count" src="https://img.shields.io/github/languages/count/SeveToo/TheObliqueThrow?color=56BEB8">
+  <img alt="Github language count" src="https://img.shields.io/github/languages/count/SeveToo/the-oblique-throw?color=56BEB8">
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/SeveToo/TheObliqueThrow?color=56BEB8">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/SeveToo/the-oblique-throw?color=56BEB8">
 
-  <img alt="License" src="https://img.shields.io/github/license/SeveToo/TheObliqueThrow?color=56BEB8">
+  <img alt="License" src="https://img.shields.io/github/license/SeveToo/the-oblique-throw?color=56BEB8">
 </p>
 
 <p align="center">
@@ -52,12 +52,12 @@ The following tools were used in this project:
 ## :white_check_mark: Requirements
 
 You just need a browser.
-https://sevetoo.github.io/TheObliqueThrow/
+https://sevetoo.github.io/the-oblique-throw/
 
 ## :checkered_flag: Starting
 
 download the project and open **index.html**
-or open in browser ( <a href="https://sevetoo.github.io/TheObliqueThrow/" >click link</a> )
+or open in browser ( <a href="https://sevetoo.github.io/the-oblique-throw/" >click link</a> )
 
 ## 😎 Made by
 
